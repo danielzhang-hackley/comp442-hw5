@@ -1,0 +1,8 @@
+venv/
+**/__pycache__
+
+*.zip
+*.DS_Store
+
+archive/
+models/
